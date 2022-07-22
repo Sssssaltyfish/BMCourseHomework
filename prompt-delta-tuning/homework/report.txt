@@ -1,0 +1,12 @@
+backbone model size for opt-350m is 632M
+delta checkpoint size for opt-350m is 9.3M
+backbone model size for opt-2.7b is 5.0G
+delta checkpoint size for opt-2.7b is 31M
+failed to load opt-6.7b
+
+largest size tried: 2.7b
+run time gpu memory: 17171 / 24576 MB
+
+gpu usage when training opt-350m:
+    with delta tuning: 80%; 5021/ 24576 MB
+    without delta tuning: 98%; 8595 / 24576 MB
