@@ -1,0 +1,31 @@
+Story Generation:
+    Input: 未来 风
+    Output: 未来 风的方向 吹动着我们的方向
+
+    Input: 一天,我醒来,发现所有人都消失了
+    Output: 一天,我醒来,发现所有人都消失了,只剩下我一个人,“这就是你的结局吗?”
+        我怔了一怔,没有回答,转身走出了房间,走出这个属于我的世界。
+        我走出了那个属于我的世界,我来到了这个世界的最中心,那里,有一座巨大的宫殿,宫殿的四周有许多侍卫,那些侍卫身着黑衣,手上拿着一枚戒指,戒指在阳光下闪着耀眼的光芒
+
+Blank Filling:
+    Input: Is it the __ life , or is just __ ?
+    Output: Is it the realreal life , or is just itit ?
+
+    Input: why is this __ always wrong ?
+    Output: why is this  thefisnotntitsnot is hatthewasthetothatalwaysisandswasthatistowasswhattothatisthatiswas thewasthewaswewasthattowhatthatwastheisnotthatwhatiswas waswhattowas asthatnotthatwasthattothatwaswasthatthatWhat always wrong ?
+
+Dialogue:
+    You: what's your name ?
+    Model: 我不懂你的意思
+    You: i mean your name
+    Model: 这个好
+    You: why ?
+    Model: 因为我们的英文名就是thethatmeanist
+    You: what does thethatmeanist mean
+    Model: 好的,你的头像
+    You: i do not understand
+    Model: 哈哈,这个好
+    You: why ?
+    Model: 没有啊,我的意思是,你不懂
+    You: well fine
+    Model: 我以为是个啥
