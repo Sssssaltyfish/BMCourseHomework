@@ -5,3 +5,7 @@
 !**/homework/
 !**/homework/*
 !**/homework/**/*
+
+!/bmtaichi/
+!/bmtaichi/*
+!/bmtaichi/**/*
